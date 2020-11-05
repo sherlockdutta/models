@@ -1,4 +1,3 @@
-# import FR_server_logger as log
 import tensorflow as tf
 import pickle
 import numpy as np
